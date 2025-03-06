@@ -69,9 +69,7 @@ You can find the workflow in:
 ```
 ✅ Automatic testing on **push** & **PR**  
 ✅ Runs with **Python 3.13.2**  
-✅ Status Badge (Add to `README.md`):
-```md
-![Test Status](https://github.com/eaedk/code-with-test/actions/workflows/test.yml/badge.svg)
+✅ Status Badge : ![Test Status](https://github.com/eaedk/code-with-test/actions/workflows/test.yml/badge.svg)
 ```
 
 ---
