@@ -16,17 +16,18 @@
 │   ├── test_calculator.py  # Tests for calculator
 │   ├── test_fibonacci.py   # Tests for Fibonacci function
 │   ├── test_palindrome.py  # Tests for palindrome function
-│   ├── __init__.py
-│
-├── draft/             # Configuration & testing utilities
-│   ├── conftest.py    # Pytest configuration
-│   ├── pytest.ini     # Pytest settings
+│   ├── __init__.py    # Package initializer
 │
 ├── requirements.txt   # Project dependencies
 ├── .github/workflows  # GitHub Actions for CI/CD (automated testing)
 └── README.md          # Project documentation
 ```
 
+<!-- │
+├── draft/             # Configuration & testing utilities
+│   ├── conftest.py    # Pytest configuration
+│   ├── pytest.ini     # Pytest settings
+│ -->
 ---
 
 ## **⚙️ Setup & Installation**
